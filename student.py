@@ -1,6 +1,6 @@
 def show_student():
-    score = float(input("请输入学生成绩："))
-    print(f"学生成绩：{score}")
+    print("Student Management System")
+
 
 if __name__ == "__main__":
     show_student()
