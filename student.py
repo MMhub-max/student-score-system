@@ -3,4 +3,4 @@ def show_student():
     print(f"学生姓名：{name}")
 
 if __name__ == "__main__":
-    show_student()
+    show_student() 
