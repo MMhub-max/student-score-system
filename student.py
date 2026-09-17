@@ -1,6 +1,6 @@
-def show_student():
-    print("Student Management System")
-
+ddef show_student():
+    major = input("请输入学生专业：")
+    print(f"学生专业：{major}")
 
 if __name__ == "__main__":
     show_student()
